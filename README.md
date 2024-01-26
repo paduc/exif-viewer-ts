@@ -4,7 +4,7 @@
 
 A free online tool to read all the EXIF data of your .jpg, .jpeg, .heic image file.
 
-## This fork
+## This fork is WIP
 
 This fork tries to add typescript types to the library.
 
